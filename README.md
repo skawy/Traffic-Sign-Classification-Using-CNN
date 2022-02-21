@@ -3,5 +3,7 @@ this model for traffic sign classification, trained with "GTSRB - German Traffic
 
 
 links for used data sets:
-|> https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
-|> https://www.kaggle.com/ganeshishwarpatil/gtsrblabel-names
+
+1) https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+
+2) https://www.kaggle.com/ganeshishwarpatil/gtsrblabel-names
